@@ -32,7 +32,7 @@ fig = px.scatter_map(
 fig.show()
 
 # Commented out IPython magic to ensure Python compatibility.
-%%writefile myscript.py
+%writefile myscript.py
 import pandas as pd
 import streamlit as st
 import plotly.express as px
