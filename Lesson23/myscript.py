@@ -37,11 +37,7 @@ fig.show()
 # import streamlit as st
 # import plotly.express as px
 # 
-# # Get the directory where this script is located
-# script_dir = os.path.dirname(__file__)
-# file_path = os.path.join(script_dir, "Advertising_F.csv")
-# 
-# df = pd.read_csv(file_path)
+# df=pd.read_csv("Lesson23/Advertising_F.csv")
 # 
 # st.title("Advertising Dashboard - Sri")
 # 
